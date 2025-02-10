@@ -47,7 +47,7 @@ Key highlights of this project:
 - **Pydantic Models:** I utilized Pydantic models to create personal configuration data, enhancing data validation and parsing.
 - **Code Refactoring:** I refactored various sections of the Pygame code and Python processes to optimize performance and improve readability.
 
-This project allowed me to strengthen my skills in Python, game development, and automation.
+This project allowed me to strengthen my skills in Python, game development, and atomization.
 <br/><br/><br/>
 
 
