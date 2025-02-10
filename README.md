@@ -1,6 +1,41 @@
 ## Hi, I'm Pedro Ivo!
 
 I'm 22 years old, currently in my first semester of Computer Science at [UVV](https://uvv.br). I'm diving deep into scalable code and software engineering principles. At the moment, I'm focused on writing efficient, scalable code while building a solid foundation in software engineering, using Python — the language I use the most in my journey. I’m also sharpening my skills in problem-solving and programming languages on [LeetCode](https://leetcode.com/u/pedroivo1), with the aim of applying these skills to real-world projects and tech challenges.
+<br/><br/><br/>
+
+
+
+## 💻 Tech Stack:
+<div>
+  <h3>Advanced Level</h3>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="PowerPoint" height="40" width="40" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png"/>
+  <br/>
+
+  <h3>Intermediate Level</h3>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <!-- <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /> -->
+  <!-- <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> -->
+  <br/>
+
+  <h3>Beginner Level</h3>
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <!-- <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
+  <br/><br/><br/>
+
+</div>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pedroivo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pedroivo1&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/><br/>
 
 ## Some Projects
 
@@ -13,41 +48,8 @@ Key highlights of this project:
 - **Code Refactoring:** I refactored various sections of the Pygame code and Python processes to optimize performance and improve readability.
 
 This project allowed me to strengthen my skills in Python, game development, and automation.
+<br/><br/><br/>
 
-
-## 💻 Tech Stack:
-<div>
-  <br/>
-  <h3>Advanced Level</h3>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="PowerPoint" height="40" width="40" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png"/>
-  <br/>
-  <br/>
-
-  <h3>Intermediate Level</h3>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <!-- <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /> -->
-  <!-- <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> -->
-  <br/>
-  <br/>
-
-  <h3>Beginner Level</h3>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <!-- <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
-  <br/>
-  <br/>
-</div>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pedroivo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pedroivo1&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Good Dev Quotes to Think About
 
@@ -61,6 +63,7 @@ This project allowed me to strengthen my skills in Python, game development, and
         <br>                                          – Cory House
     </pre>
 </div>
+<br/><br/><br/>
 
 ## 📫 Let's connect!
 ### 🌐 Socials:
