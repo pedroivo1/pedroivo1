@@ -46,7 +46,7 @@ I'm 22 years old and currently in my first semester of [Computer Science](https:
 
 
 
-## Some Projects
+## 🛠️ Some Projects
 
 <details>
 <summary>PyGame-Shooter</summary>
