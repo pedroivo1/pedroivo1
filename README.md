@@ -1,45 +1,45 @@
 ## Olá, sou o Pedro Ivo!
 
-Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [UVV](uvv.br). Estou me aprofundando em padrões de projeto e outros princípios da engenharia de software. Além disso tenho usado SQLserver para estudar SQL e entender o funcionamento dos bancos de dados relacionai. Também estou mantendo a prática de escrever algorítimos no [LeetCode](leetcode.com/u/pedroivo1).
+Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](https://uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [UVV](https://uvv.br). Estou me aprofundando em padrões de projeto e outros princípios da engenharia de software. Além disso tenho usado SQLserver para estudar SQL e entender o funcionamento dos bancos de dados relacionai. Também estou mantendo a prática de escrever algorítimos no [LeetCode](https://leetcode.com/u/pedroivo1).
 <br/><br/>
 
-<!-- 
+
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> -->
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=pedroivo1&theme=light&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /> -->
 </div>
-<br/><br/> -->
+<br/><br/>
 
 ## 🛠️ Alguns Projetos
 
 <details>
 <summary>🎬 FFmpeg Engine</summary>
 
-### [ffmpeg_engine](github.com/pedroivo1/ffmpeg_engine)
+### [ffmpeg_engine](https://github.com/pedroivo1/ffmpeg_engine)
 
 Biblioteca python para facilitar o uso do FFmpeg.
 
 Destaques principais deste projeto:
-- **Padrões de Projeto:** Uso dos padrões de projeto [Strategy](refactoring.guru/design-patterns/strategy) e [Builder](refactoring.guru/design-patterns/builder).
-- **Testes:** Uso do [Pytest](docs.pytest.org) para garantir que objetos/métodos estão funcionando coretamente.
+- **Padrões de Projeto:** Uso dos padrões de projeto [Strategy](https://refactoring.guru/design-patterns/strategy) e [Builder](https://refactoring.guru/design-patterns/builder).
+- **Testes:** Uso do [Pytest](https://docs.pytest.org) para garantir que objetos/métodos estão funcionando coretamente.
 </details>
 
 
 <details>
 <summary>🗃️ SP Rent Analisys</summary>
 
-### [SP-rent-analisys](github.com/pedroivo1/SP-rent-analisys)
+### [SP-rent-analisys](https://github.com/pedroivo1/SP-rent-analisys)
 
 Análise e criação de modelos para prever o preço de alugueis na cidade de São Paulo.
 
 Destaques principais deste projeto:
 - **Modelos Preditivos:** Implementação de [Regressão Linear](https://pt.wikipedia.org/wiki/Regress%C3%A3o_linear), [KNN](https://www.ibm.com/br-pt/think/topics/knn), e [Árvore de Decisão](https://www.ibm.com/br-pt/think/topics/decision-trees).
-- **Análise de Dados:** Uso das bibliotecas [Pandas](pandas.pydata.org), [Matplotlib](matplotlib.org) e [Seaborn](seaborn.pydata.org) para visualizar e filtrar os dados.
+- **Análise de Dados:** Uso das bibliotecas [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org) e [Seaborn](https://seaborn.pydata.org) para visualizar e filtrar os dados.
 
 
 </details>
@@ -67,5 +67,5 @@ Destaques principais deste projeto:
 
 
 ## 📫 Vamos nos conectar!
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedroivoal1@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mailto:pedroivoal1@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5511984744949)
