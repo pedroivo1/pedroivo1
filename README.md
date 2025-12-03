@@ -1,9 +1,9 @@
 ## Olá, sou o Pedro Ivo!
 
-Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](https://uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [UVV](https://uvv.br). Estou me aprofundando em padrões de projeto e outros princípios da engenharia de software. Além disso tenho usado SQLserver para estudar SQL e entender o funcionamento dos bancos de dados relacionai. Também estou mantendo a prática de escrever algorítimos no [LeetCode](https://leetcode.com/u/pedroivo1).
+Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [UVV](uvv.br). Estou me aprofundando em padrões de projeto e outros princípios da engenharia de software. Além disso tenho usado SQLserver para estudar SQL e entender o funcionamento dos bancos de dados relacionai. Também estou mantendo a prática de escrever algorítimos no [LeetCode](leetcode.com/u/pedroivo1).
 <br/><br/>
 
-
+<!-- 
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -13,35 +13,38 @@ Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](htt
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
+<br/><br/> -->
+
+## 🛠️ Alguns Projetos
+
+<details>
+<summary>🎬 FFmpeg Engine</summary>
+
+### [ffmpeg_engine](github.com/pedroivo1/ffmpeg_engine)
+
+Biblioteca python para facilitar o uso do FFmpeg.
+
+Destaques principais deste projeto:
+- **Padrões de Projeto:** Uso dos padrões de projeto [Strategy](refactoring.guru/design-patterns/strategy) e [Builder](refactoring.guru/design-patterns/builder).
+- **Testes:** Uso do [Pytest](docs.pytest.org) para garantir que objetos/métodos estão funcionando coretamente.
+</details>
+
+
+<details>
+<summary>🗃️ SP Rent Analisys</summary>
+
+### [SP-rent-analisys](github.com/pedroivo1/SP-rent-analisys)
+
+Análise e criação de modelos para prever o preço de alugueis na cidade de São Paulo.
+
+Destaques principais deste projeto:
+- **Modelos Preditivos:** Implementação de [Regressão Linear](https://pt.wikipedia.org/wiki/Regress%C3%A3o_linear), [KNN](https://www.ibm.com/br-pt/think/topics/knn), e [Árvore de Decisão](https://www.ibm.com/br-pt/think/topics/decision-trees).
+- **Análise de Dados:** Uso das bibliotecas [Pandas](pandas.pydata.org), [Matplotlib](matplotlib.org) e [Seaborn](seaborn.pydata.org) para visualizar e filtrar os dados.
+
+
+</details>
 <br/><br/>
 
-
-
-## 💻 Stack de Tecnologia:
-<div style="display: flex; gap: 3rem;">
-
-<div>
-<h3>Nível Avançado</h3>
-<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
-
-<div>
-<h3>Nível Intermediário</h3>
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-</div>
-
-<div>
-<h3>Nível Iniciante</h3>
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
-
-</div>
-<br/><br/>
 
 
 ## ✍️ Boas Citações de Devs para Refletir
@@ -63,6 +66,6 @@ Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](htt
 <br/><br/>
 
 
-
 ## 📫 Vamos nos conectar!
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedroivoal1@gmail.com)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5511984744949)
