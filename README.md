@@ -1,19 +1,14 @@
 ## Olá, sou o Pedro Ivo!
 
 Tenho 22 anos e atualmente estou no 3 semestre de [Ciência da Computação](https://uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [UVV](https://uvv.br). Estou me aprofundando em padrões de projeto e outros princípios da engenharia de software. Além disso tenho usado SQLserver para estudar SQL e entender o funcionamento dos bancos de dados relacionai. Também estou mantendo a prática de escrever algorítimos no [LeetCode](https://leetcode.com/u/pedroivo1).
-<br/><br/>
 
 
-## 📊 GitHub Stats:
-
+<!-- ## 📊 GitHub Stats:
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> -->
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=pedroivo1&theme=light&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /> -->
-</div>
-<br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivo1&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+</div> -->
 
 ## 🛠️ Alguns Projetos
 
@@ -43,12 +38,10 @@ Destaques principais deste projeto:
 
 
 </details>
-<br/><br/>
 
 
 
-## ✍️ Boas Citações de Devs para Refletir
-
+<!-- ## ✍️ Boas Citações de Devs para Refletir
 <div style="display: flex; gap: 10px;">
     <blockquote style="font: 1.3rem 'Roboto', sans-serif; color: #cccccc; border: 1px solid #e4e2e2; border-radius: 0.25rem; padding: 3rem; margin: 10px 0; background-color: #151515;">
         <strong style="color: #e4e2e2">"Primeiro, resolva o problema. Depois, escreva o código."</strong>
@@ -60,12 +53,9 @@ Destaques principais deste projeto:
         <br>
         <span style="display: block; text-align: end;">– Cory House</span>
     </blockquote>
-</div>
+</div> -->
 
 
-<br/><br/>
-
-
-## 📫 Vamos nos conectar!
+## 📫 Vamos nos conectar
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mailto:pedroivoal1@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5511984744949)
