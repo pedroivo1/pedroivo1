@@ -1,8 +1,3 @@
-## Hello, I'm Pedro Ivo!
-
-I am 22 years old and currently in the 3rd semester of [Computer Science](https://uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) at [UVV](https://uvv.br).
-
-
 ## 🛠️ Some Projects
 
 <details>
